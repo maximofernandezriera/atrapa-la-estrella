@@ -18,6 +18,9 @@ Carpeta [`tortuga-hambrienta/`](tortuga-hambrienta/):
 - `solucion_tortuga.py`: solución de referencia.
 - `tortuga_hambrienta_solucion_explicada.ipynb`: solución explicada.
 - `fuente_latex_tortuga.zip`: fuente LaTeX del enunciado (compilar con `pdflatex` dos veces).
+- `tortuga_hambrienta_pizarra.png` / `.excalidraw`: esquema para la pizarra (el `.excalidraw` se edita en [excalidraw.com](https://excalidraw.com)).
+
+![Esquema para la pizarra](tortuga-hambrienta/tortuga_hambrienta_pizarra.png)
 
 ```
 python tortuga.py        # turtle viene incluido con Python
